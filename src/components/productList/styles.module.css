@@ -1,0 +1,9 @@
+.product_list {
+    display: grid;
+    background-color: white;
+    width: 75%;
+    grid-gap: 15px;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(2,1fr);
+    padding: 20px;
+}

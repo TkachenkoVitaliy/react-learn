@@ -1,0 +1,11 @@
+.header_container {
+    height: 80px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: brown;
+}
+
+.header {
+    padding: 10px 30px;
+}
